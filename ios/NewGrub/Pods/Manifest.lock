@@ -1,0 +1,37 @@
+PODS:
+  - Alamofire (4.0.1)
+  - GoogleMaps (2.1.0):
+    - GoogleMaps/Maps (= 2.1.0)
+  - GoogleMaps/Base (2.1.0)
+  - GoogleMaps/Maps (2.1.0):
+    - GoogleMaps/Base (= 2.1.0)
+  - GooglePlacePicker (2.1.0):
+    - GoogleMaps (= 2.1.0)
+    - GooglePlaces (= 2.1.0)
+  - GooglePlaces (2.1.0):
+    - GoogleMaps/Base (= 2.1.0)
+  - SwiftHEXColors (1.0.4)
+  - SwiftHTTP (2.0.1)
+  - SwiftyJSON (3.1.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - GoogleMaps
+  - GooglePlacePicker
+  - GooglePlaces
+  - SwiftHEXColors
+  - SwiftHTTP
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  GoogleMaps: 06589b9a38097bce0cd6e90f0fd9b5e4b4a9344c
+  GooglePlacePicker: a2228b447d10008bcb765a6a081f415e8599e5d4
+  GooglePlaces: 16e96266483b8010e9f275399403647978523c86
+  SwiftHEXColors: b0ecc7bd83a1aa2e1956f9ba51f55ebb2bcf86ef
+  SwiftHTTP: 6d57b54ee84d9ad9cf81b6bc1c4cae593e3f6329
+  SwiftyJSON: f0be2e604f83e8405a624e9f891898bf6ed4e019
+
+PODFILE CHECKSUM: 8fc25e28c56c595736b2ae2a4ddf46809a5595df
+
+COCOAPODS: 1.0.1
